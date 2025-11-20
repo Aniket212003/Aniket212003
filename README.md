@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket212003&label=Profile%20views&color=0e75b6&style=flat" alt="aniket212003" /> </p>
 
-- 🌱 I’m currently learning **Hibernate ORM Framework**
+- 🌱 I’m currently open for **Opportunities**
 
 - 💬 Ask me about **Java ,PostgreSQL ,Hibernate**
 
